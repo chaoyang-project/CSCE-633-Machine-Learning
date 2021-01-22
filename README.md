@@ -1,4 +1,6 @@
 # CSCE-633-Machine-Learning
+Assignments and Projects for CSCE 633 course at Texas A&M Univeristy pursuing my master's degree.
+
 HW1: Linear Perceptron Algorithm + KNN
 
 HW2: Machine learning with Pokemon GO
